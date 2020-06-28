@@ -88,6 +88,6 @@
      10.仿真环境ok了，部署线上。
      11.有些公司从测试环境提交验收的时间点开始，会要求写一些操作手册之类的文档，一些测试的报告，比如bug统计，bug的覆盖。
      
-![image]()
+![image](https://github.com/LK1128/csday01.github.io/blob/master/%E5%9B%BE%E7%89%871.png)
   
   
